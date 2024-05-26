@@ -1,3 +1,2 @@
-name=namepy
-printf ("My Name is khushi");
-
+name = "your name"
+print ("My Name is", name);
